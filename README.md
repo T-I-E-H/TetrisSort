@@ -1,0 +1,3 @@
+Данное приложение написано на Java. В нем задаются фигуры (по умолчанию - из тетриса) и стоимость каждой фигуры. Приложение сделано для того, чтобы оптимальным образом заполнить заданное поле заданными фигурами, исходя из их стоимости. Графического интерфейса в приложении не предусмотрено, работа и визуализация происходит посредством командной строки.
+
+This application is written in Java. It specifies the shapes (from Tetris by default) and the cost of each shape. The application is designed to optimally fill the given field with the given shapes, based on their cost. There is no graphical interface in the application, operation and visualization
